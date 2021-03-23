@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">IMC</string>
+    <string name="Poids">Déterminez votre poids</string>
+    <string name="Taille">Determiner votre taille</string>
+    <string name="Result">Vous devez cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat</string>
+    <string name="res">Résultat</string>
+
+
+</resources>

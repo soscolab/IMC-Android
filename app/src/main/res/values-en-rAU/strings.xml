@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="Poids">"Please indicate your weight "</string>
+    <string name="Taille">Please indicate your height</string>
+    <string name="Result">"Clicj here to view the result "</string>
+    <string name="res">Result</string>
+</resources>
